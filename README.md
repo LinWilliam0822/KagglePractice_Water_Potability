@@ -7,4 +7,4 @@
 
 該資料集 water_potability.csv 包含 3276 個不同水體的水質指標資料。
 
-模型的預測準確率(Accuracy)約 **0.63**
+模型的預測準確率(Accuracy)約 <font color=#FF0000>0.63</font>
